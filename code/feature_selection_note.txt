@@ -1,0 +1,1 @@
+le one hot encoding de CALC na pa de valeur always dans le train set mais l'a dans le test donc ça crée une colonne de plus dans le X_submit 
